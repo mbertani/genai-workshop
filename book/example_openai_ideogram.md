@@ -42,8 +42,11 @@ You can create a free account with your Google account. The basic idea is to cre
 ### Otto the otter as a kid
 
 Query: `Otto the otter growing up as a kid in a lake in the forest. There is a cabin in the background`
+
 Style: `dark fantasy`
+
 Size: `1:1`
+
 Results: 
  - ![https://ideogram.ai/g/iVd6wyd0RvyEsf5SvO4ZmQ/3](otto_the_otter/Otto_in_front_of_cabin.jpeg)
  - ![https://ideogram.ai/g/iVd6wyd0RvyEsf5SvO4ZmQ/0](otto_the_otter/Otto_with_his_mom.jpeg)
@@ -56,7 +59,7 @@ For the next image, choose https://ideogram.ai/g/iVd6wyd0RvyEsf5SvO4ZmQ/3 and cl
 Query: `Otto is being bullied by other otter kids, since Otto was playing his imaginary piano on a fallen log by the lake, dark fantasy`
 
 Result: 
-- ![https://ideogram.ai/g/_dp4WshYQ5uSBZYRpndTNw/2](otto_the_otter/Otto_piano.jpeg)
+ - ![https://ideogram.ai/g/_dp4WshYQ5uSBZYRpndTNw/2](otto_the_otter/Otto_piano.jpeg)
 
 ### Otto gets to the cabin
 
@@ -65,7 +68,7 @@ For this image, use https://ideogram.ai/g/iVd6wyd0RvyEsf5SvO4ZmQ/3 as base and c
 Query: `Otto the otter opens the door of the cabin in the lake, finding a nice piano in the middle of the room. The sun enters by the window, illuminating the room and giving a cosy atmorsphere, dark fantasy`
 
 Result:
-- ![https://ideogram.ai/g/zxIf7iKcSzaymCGikYSO4A/1](otto_the_otter/Otto_cabin_piano.jpeg)
+ - ![https://ideogram.ai/g/zxIf7iKcSzaymCGikYSO4A/1](otto_the_otter/Otto_cabin_piano.jpeg)
 
 ### Otto playing the piano
 
