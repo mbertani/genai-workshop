@@ -25,12 +25,49 @@ As they watched the star return to its place, Leo, Uni, and Oliver felt a sense 
 With happy hearts, the three friends returned to the Enchanted Valley, ready to share their knowledge and values with other inhabitants, making their magical land an even better place to live. And every night, they looked up at the sky, waving at the twinkling star, which seemed to shine a little brighter, reminding them that with good values and practical skills, anything is possible.
 
 
-## Images prompts
-- lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration, 1:1 ![lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration](enchanted_valley/animals_Enchanted_Valley.jpeg)
-- illustration of unicorn, lion and the owl are on the broken bridge ![illustration of unicorn, lion and the owl are on the broken bridge](enchanted_valley/illustration_on_the_broken_bridge.jpeg) 
-- illustration of unicorn, lion and the owl who found a fallen and dim star ![illustration of unicorn, lion and the owl who found a fallen and dim star](enchanted_valley/illustration_who_found_a_fallen_and_dim_star_1.jpeg)
-- illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](enchanted_valley/illustration_are_building_a_catapulta_to_send_a_star_to_the_sky.jpeg)
-- illustration of happy unicorn, lion and the owl looking at the starry sky ![illustration of happy unicorn, lion and the owl looking at the starry sky](enchanted_valley/illustration_looking_at_the_starry_sky.jpeg)
+## Images
+
+Using: https://ideogram.ai/ It uses [IMAGEN](https://imagen.research.google/) under the hood.
+
+You can create a free account with your Google account. The basic idea is to create a first example of what you want, and then continue remixing and using previous examples to lead the image generation and stay within the same style.
+
+### Otto the otter as a kid
+
+Query: `lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration`
+
+Style: `illustration`
+Size: `10:16`
+Result:  ![lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration](enchanted_valley/animals_Enchanted_Valley.jpeg)
+
+
+Query: `illustration of unicorn, lion and the owl are on the broken bridge`
+No remix
+Style: `illustration`
+Size: `10:16`
+Result:
+![illustration of unicorn, lion and the owl are on the broken bridge](enchanted_valley/illustration_on_the_broken_bridge.jpeg) 
+
+
+Query: `illustration of unicorn, lion and the owl who found a fallen and dim star`
+No remix
+Style: `illustration`
+Size: `10:16`
+Result:
+![illustration of unicorn, lion and the owl who found a fallen and dim star](enchanted_valley/illustration_who_found_a_fallen_and_dim_star_1.jpeg)
+
+Query: `illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky`
+No remix
+Style: `illustration`
+Size: `10:16`
+Result:
+![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](enchanted_valley/illustration_are_building_a_catapulta_to_send_a_star_to_the_sky.jpeg)
+
+Query: `illustration of happy unicorn, lion and the owl looking at the starry sky`
+No remix
+Style: `illustration`
+Size: `10:16`
+Result:
+![illustration of happy unicorn, lion and the owl looking at the starry sky](enchanted_valley/illustration_looking_at_the_starry_sky.jpeg)
 
 
 
