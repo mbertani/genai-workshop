@@ -26,10 +26,12 @@ With happy hearts, the three friends returned to the Enchanted Valley, ready to 
 
 
 ## Images prompts
-- ![lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration](enchanted_valley/illustration_of_happy_unicorn_lion_and_the_owl_looking_at_the_starry_sky_1.jpeg)
-**Lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration**
-- ![illustration of unicorn, lion and the owl are on the broken bridge](book/illustration of unicorn, lion and the owl are on the broken bridge.jpeg) 
-- ![illustration of unicorn, lion and the owl who found a fallen and dim star](book/illustration of unicorn, lion and the owl who found a fallen and dim star.jpeg)
-- ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](book/illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky.jpeg)
-- ![illustration of happy unicorn, lion and the owl looking at the starry sky](book/illustration of happy unicorn, lion and the owl looking at the starry sky.jpeg)
-- ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](123.jpeg)
+- lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration ![lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration](animals_Enchanted_Valley.jpeg)
+- illustration of unicorn, lion and the owl are on the broken bridge ![illustration of unicorn, lion and the owl are on the broken bridge](illustration_on_the_broken_bridge.jpeg) 
+- illustration of unicorn, lion and the owl who found a fallen and dim star ![illustration of unicorn, lion and the owl who found a fallen and dim star](illustration_who_found_a_fallen_and_dim_star_1.jpeg)
+- illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](illustration_are_building_a_catapulta_to_send_a_star_to_the_sky.jpeg)
+- illustration of happy unicorn, lion and the owl looking at the starry sky ![illustration of happy unicorn, lion and the owl looking at the starry sky](illustration_looking_at_the_starry_sky.jpeg)
+
+
+
+
