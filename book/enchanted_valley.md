@@ -31,7 +31,7 @@ Using: https://ideogram.ai/ It uses [IMAGEN](https://imagen.research.google/) un
 
 You can create a free account with your Google account. The basic idea is to create a first example of what you want, and then continue remixing and using previous examples to lead the image generation and stay within the same style.
 
-### Otto the otter as a kid
+### Lion, unicorn and owl
 
 Query: `lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration`
 
