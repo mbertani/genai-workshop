@@ -43,13 +43,13 @@ Query: `three happy animals: lion cub, unicorn, and the owl in the vibrant Encha
 
 Style: `illustration`
 Size: `1:1`
-Result:  ![three happy animals: lion cub, unicorn, and the owl in the vibrant Enchanted Valley](enchanted_valley/enchanted_valleyanimals_Enchanted_Valley2.jpeg)
+Result:  ![three happy animals: lion cub, unicorn, and the owl in the vibrant Enchanted Valley](enchanted_valley/enchanted_valley/animals_Enchanted_Valley2.jpeg)
 
 Query: `three happy animals: unicorn, lion cub, the owl in the vibrant Enchanted Valley`
 
 Style: `illustration`
 Size: `1:1`
-Result:  ![three happy animals: lion cub, unicorn, and the owl in the vibrant Enchanted Valley](enchanted_valley/enchanted_valleyanimals_Enchanted_Valley1.jpeg)
+Result:  ![three happy animals: lion cub, unicorn, and the owl in the vibrant Enchanted Valley](enchanted_valley/enchanted_valley/animals_Enchanted_Valley1.jpeg)
 
 
 Query: `illustration of unicorn, lion and the owl are on the broken bridge`
