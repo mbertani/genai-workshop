@@ -1,7 +1,8 @@
 # Co-Create with AI
 Welcome to Co-Create with AI, a hands-on workshop of generative AI models at Women in Data Science Oslo!
 
-![repo](https://github.com/mbertani/genai-workshop/assets/21079942/5e5c6c6b-0eeb-4ce1-9183-23591c4dacf9)
+![45bz8t48-400](https://github.com/mbertani/genai-workshop/assets/21079942/4d92f44d-b706-40a0-8165-6f1f4acc641e)
+
 
 ## Plan of the day
 9:30 - 10:20: 30m opening talk + 20m tips sharing
