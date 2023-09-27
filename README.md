@@ -2,11 +2,11 @@
 Welcome to Co-Create with AI, a hands-on workshop of generative AI models at Women in Data Science Oslo!
 
 ## Plan of the day
-9:00 - 9:50: 30m opening talk + 20m tips sharing
+9:30 - 10:20: 30m opening talk + 20m tips sharing
 
-9:50 - 10:00 10m break and people choose tracks
+10:20 - 10:30 10m break and people choose tracks
 
-10:00 - 12:00: 2 hours hands-on time in small groups
+10:30 - 12:00: 1.5 hours hands-on time in small groups
 
 12:00 - 12:30: share out
 
