@@ -55,3 +55,13 @@ Note that due to the limited time, you probably won't have enough time to train 
 If you have hands-on experience fine-tuning (or even training!) a GPT or Stable Diffusion model, this workshop will be more of a seminar experience for you. Please bring your fine-tuned models and share your experience.  
 
 Due to the time limitation (and advantages of the new generation of models), we don't expect you to write much code
+
+## Share your results
+
+We want you to share your results with you, and we have prepared a Miro board for this. You can access the board at:
+
+[https://tinyurl.com/22hc4ybz](https://tinyurl.com/22hc4ybz)
+
+or scan from your mobile:
+
+![QR code](22hc4ybz-400.png)
